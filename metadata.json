@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "AI-powered career guidance and personalized 30-day learning roadmap generator for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
